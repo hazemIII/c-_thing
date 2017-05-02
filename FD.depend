@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493726442 source:/home/hazem/c-_thing/main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<vector>
+	<array>
+	<boost/numeric/ublas/matrix.hpp>
+	<boost/numeric/ublas/lu.hpp>
+	<boost/numeric/ublas/io.hpp>
+
