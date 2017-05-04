@@ -9,7 +9,7 @@
 using namespace boost::numeric::ublas;
 using namespace std;
 
-int n = 10;
+int n = 1000;
 
  /* Matrix inversion routine.
  Uses lu_factorize and lu_substitute in uBLAS to invert a matrix */
